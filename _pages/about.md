@@ -9,9 +9,6 @@ redirect_from:
 ---
 I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised by Prof. Cheng Deng at Xidian University. Before that I obtained my B.S. degree from Shandong Agricultural University in 2017.
 
-News
-======
-
 
 
 Recent Publications
@@ -25,5 +22,3 @@ Conference
 ------
 
 
-Friends
-======
