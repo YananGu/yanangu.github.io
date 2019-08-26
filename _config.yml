@@ -85,8 +85,8 @@ author:
   bio              : "PhD candidate of The Department of Electronic Engineering at Xidian University"
   location         : "Xidian University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           :
+  googlescholar    : 
   email            : "yanan_gu@aliyun.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
