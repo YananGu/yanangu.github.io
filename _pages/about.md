@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "YananGu(顾亚男)"
+title: "Yanan Gu (顾亚男)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
