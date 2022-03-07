@@ -12,8 +12,7 @@ I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised 
 News
 ======
 
-
- 1. One papers were accepted to CVPR2022  
+1. One papers were accepted to CVPR2022  
 2. One papers were accepted to AAAI2021
 
 
