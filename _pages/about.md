@@ -21,6 +21,7 @@ Wang, Xiumei & Gu, Yanan & Gao, Xinbo & Hui, Zheng. (2019). Dual Residual Attent
 Conference
 ------
 Yanan Gu, Xu Yang, Kun Wei, Cheng Deng, Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency, IEEE Conference on Computer Vision and Pattern Recognition(CVPR), 2022. (CCF-A类);
+
 Yanan Gu, Cheng Deng, Kun Wei, Class-Incremental Instance Segmentation via Multi-Teacher Networks, AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A类);
 
 
