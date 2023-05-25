@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a first year PhD（Ph.D Graduate Program） Candidate supervised by Prof. Cheng Deng at Xidian University. Before that I obtained my B.S. degree from Shandong Agricultural University in 2017.
+I am currently a fourth year PhD（Ph.D Graduate Program） Candidate supervised by Prof. Cheng Deng at Xidian University. Before that I obtained my B.S. degree from Shandong Agricultural University in 2017.
 
 News
 ======
-
+-  One papers were accepted to IJCAI2023  
 -  One papers were accepted to CVPR2022  
 -  One papers were accepted to AAAI2021
 
@@ -27,6 +27,8 @@ Xiumei Wang, __Yanan Gu__ , Xinbo Gao, Zheng hui. Dual Residual Attention Module
 
 Conference
 ------
+Xu Yang,__Yanan Gu__, Kun Wei, Cheng Deng, Exploring Safety Supervision for Continual Test-time Domain Adaptation, International Joint Conference on Artificial Intelligence(__IJCAI__), 2023. (__CCF-A类__);
+
 __Yanan Gu__, Xu Yang, Kun Wei, Cheng Deng, Not Just Selection, but Exploration: Online Class-Incremental Continual Learning via Dual View Consistency, IEEE Conference on Computer Vision and Pattern Recognition(__CVPR__), 2022. (__CCF-A类__);
 
 __Yanan Gu__, Cheng Deng, Kun Wei, Class-Incremental Instance Segmentation via Multi-Teacher Networks, AAAI Conference on Artificial Intelligence (__AAAI__), 2021. (__CCF-A类__);
